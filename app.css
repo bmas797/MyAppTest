@@ -15,10 +15,17 @@ margin: 0;
 height: 100%;
 }
 
-.container {
+
+.containerMy {
 margin: auto;
 padding: 1em;
 width: 80%;
+}
+
+.container {
+margin: auto;
+padding: 1em;
+width: 85%;
 }
 
 .destination-container {
